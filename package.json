@@ -1,0 +1,18 @@
+{
+  "name": "filesaibotpro",
+  "version": "1.0.0",
+  "description": "Your app description",
+  "scripts": {
+    "start": "node your-app-entry-file.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "private": true,
+  "cacheDirectories": [
+    "node_modules"
+  ]
+}
